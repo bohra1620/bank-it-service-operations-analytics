@@ -1,4 +1,4 @@
-# HP(via Mphasis) - UOB IT Service Operations Analytics
+# HP(via Mphasis) - Bank IT Service Operations Analytics
 *End-to-End SQL to Excel Data Pipeline for SLA Tracking, IVR Deflection, and Automated Agent Incentive Calculations.*
 
 ## Project Overview
